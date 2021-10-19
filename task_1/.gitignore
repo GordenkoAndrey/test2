@@ -1,3 +1,18 @@
+Debug/
+*.pdb
+*.tlog
+*.exe.recipe
+*.ilk
+*.idb
+*.pdb
+*.suo
+*.db
+*.ipch
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
 # Prerequisites
 *.d
 
